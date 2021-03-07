@@ -36,7 +36,7 @@ public class DiceCard extends JPanel implements ActionListener {
 	JLabel TotalResult = new JLabel(" ");
 
 	TextField amountdice = new TextField(3); // soll durch Nutzer einstellbar sein
-	TextField dicekind = new TextField(3); // soll durch Anklicken der d2-d100 buttons ausgefüllt werden - vorher CTA -
+	TextField dicekind = new TextField(3); // soll durch Anklicken der d2-d100 buttons ausgefÃ¼llt werden - vorher CTA -
 											// TextField vmtl nicht das richtige.
 	TextField modifier = new TextField(3); // soll durch Nutzer einstellbar sein
 

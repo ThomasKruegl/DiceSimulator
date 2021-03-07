@@ -95,21 +95,21 @@ public class DiceSimulator {
 //	}
 
 /*
- * Auswahl der Würfelseiten (2, 4, 6, 8, 10, 12, 20, 100) Auswahl der Menge der
- * Würfel (ggf sogar kombinierbar zb 2w8 + 1w6)
+ * Auswahl der WÃ¼rfelseiten (2, 4, 6, 8, 10, 12, 20, 100) Auswahl der Menge der
+ * WÃ¼rfel (ggf sogar kombinierbar zb 2w8 + 1w6)
  * 
  * Bonus dazurechnen
  * 
- * explodierende Würfel: bei der höchsten Zahl neuwürfeln auf aufsummieren
+ * explodierende WÃ¼rfel: bei der hÃ¶chsten Zahl neuwÃ¼rfeln auf aufsummieren
  * 
- * WoD Wüfel: bei denen nur Erfolge gezählt werden (Würfel mit Ergebnis über X)
- * WoD Würfel Misserfolge (nur Einser) WoD Würfel: Hungerwürfel mit einbeziehen
- * Erst mal: d20 würfeln dann: auswählen welcher d gewürfelt werden soll dann:
- * mehrere Male den gleichen oder unterschiedliche Würfel werfen dann:
- * zusätzliche Werte auf einen Wurf drauf addieren dann: standard-dinge wie
+ * WoD WÃ¼fel: bei denen nur Erfolge gezÃ¤hlt werden (WÃ¼rfel mit Ergebnis Ã¼ber X)
+ * WoD WÃ¼rfel Misserfolge (nur Einser) WoD WÃ¼rfel: HungerwÃ¼rfel mit einbeziehen
+ * Erst mal: d20 wÃ¼rfeln dann: auswÃ¤hlen welcher d gewÃ¼rfelt werden soll dann:
+ * mehrere Male den gleichen oder unterschiedliche WÃ¼rfel werfen dann:
+ * zusÃ¤tzliche Werte auf einen Wurf drauf addieren dann: standard-dinge wie
  * potion of healing (minor, major, blabla)
  * 
- * dann: vampire - hunger-würfel oder nicht? Später: mit einer Datenbank
+ * dann: vampire - hunger-wÃ¼rfel oder nicht? SpÃ¤ter: mit einer Datenbank
  * verbunden, in der jeder Spieler seine Werte eintragen kann und dan nnur ein
- * Stichwort eingibt und das dann selbstständig würfelt
+ * Stichwort eingibt und das dann selbststÃ¤ndig wÃ¼rfelt
  */
